@@ -4,8 +4,8 @@
 **Android/Kotlin → Google L4 Engineer**  
 *Nairobi, Kenya* • [bradleyopiyo.dev](http://bradleyopiyo.dev) • [bradley@opiyo.dev](mailto:bradley@opiyo.dev)
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=bradleyopiyo&show_icons=true&theme=radical)](https://github.com/bradleyopiyo)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bradleyopiyo&layout=compact&theme=radical)](https://github.com/bradleyopiyo)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=opiyodev&show_icons=true&theme=radical)](https://github.com/opiyodev)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=opiyodev&layout=compact&theme=radical)](https://github.com/opiyodev)
 
 </div>
 
